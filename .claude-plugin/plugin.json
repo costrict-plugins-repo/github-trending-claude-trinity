@@ -1,0 +1,22 @@
+{
+  "name": "pge-orchestrator",
+  "version": "2.7.0",
+  "description": "Autonomous Planner-Generator-Evaluator pipeline for Claude Code. One prompt → full product.",
+  "author": {
+    "name": "orion-gz",
+    "email": "asdfg60842@gmail.com"
+  },
+  "repository": "https://github.com/orion-gz/Claude-Trinity",
+  "homepage": "https://github.com/orion-gz/Claude-Trinity",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "multi-agent",
+    "pipeline",
+    "evaluator",
+    "autonomous"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
